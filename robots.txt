@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.chessarenacombat.com/sitemap.xml
+Sitemap: https://washubhardwaj9-hash.github.io/chess-arena-combat/sitemap.xml
